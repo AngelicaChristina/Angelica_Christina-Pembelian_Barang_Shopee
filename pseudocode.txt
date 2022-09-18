@@ -1,0 +1,10 @@
+STORE "Cari Produk" AS STRING
+STORE "Pengisisan Identitas" AS STRING
+STORE "Keputusan"
+
+INPUT (Keputusan)
+IF "Keputusan" = "NO" THEN 
+    DISPLAY "Cari Produk"
+ELSE "Keputusan" = "YES" THEN 
+    DISPLAY "Pengisian Identitas"
+END IF
