@@ -6,7 +6,6 @@ Pembelian Barang di Shopee ini digunakan untuk menghitung total pembelian barang
 - Flowchart.drawio
 - README.md
 - Pseudocode.txt
-- Algoritma.txt
 
 Dikerjakan Oleh :
 - Angelica Christina Wibowo Siauw - FE2932483
