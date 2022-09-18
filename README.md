@@ -7,3 +7,6 @@ Pembelian Barang di Shopee ini digunakan untuk menghitung total pembelian barang
 - README.md
 - Pseudocode.txt
 - Algoritma.txt
+
+Dikerjakan Oleh :
+- Angelica Christina Wibowo Siauw - FE2932483
