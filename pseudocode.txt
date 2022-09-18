@@ -5,3 +5,5 @@ STORE "Keputusan"
 INPUT (Keputusan)
 IF "Keputusan" = "NO" THEN 
     DISPLAY "Cari Produk"
+ELSE "Keputusan" = "YES" THEN 
+    DISPLAY "Pengisian Identitas"
