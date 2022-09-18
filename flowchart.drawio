@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="ubW1tkI_ThZew9xtyqaF" name="Page-1">
-        <mxGraphModel dx="502" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="971" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -25,7 +25,7 @@
                 <mxCell id="65" value="Memilih Produk yang diinginkan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="310" y="350" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="74" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="69" target="64">
+                <mxCell id="74" value="NO" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="69" target="64">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="260" y="480"/>
@@ -33,8 +33,22 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="77" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="69" target="75">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="77">
+                    <mxGeometry y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
                 <mxCell id="69" value="Yakin dengan pembelian" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="310" y="440" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="Mengisi Identitas dan alamat lengkap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="Konfirmasi barang yang dipesan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="260" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
